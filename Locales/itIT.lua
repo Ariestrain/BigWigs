@@ -1,23 +1,23 @@
 local L = BigWigsAPI:NewLocale("BigWigs", "itIT")
 if not L then return end
 
---L.getNewRelease = "Your BigWigs is old (/bwv) but you can easily update it using the Curse Client. Alternatively, you can update manually from curse.com or wowinterface.com."
---L.warnTwoReleases = "Your BigWigs is 2 releases out of date! Your version may have bugs, missing features, or completely incorrect timers. It is strongly recommended you update."
---L.warnSeveralReleases = "|cffff0000Your BigWigs is several releases out of date!! We HIGHLY recommend you update to prevent syncing issues with other players!|r"
+--L.getNewRelease = "Il tuo BigWigs non è aggiornato ma puoi facilmente aggiornarlo usando Curse Client. In alternativa, puoi aggiornarlo manualmente dal sito www.curse.com oppure da www.wowinterface.com"
+--L.warnTwoReleases = "Il tuo BigWigs 2 versioni più vecchio! La tua versione potrebbe avere malfunzionamenti o potrebbero mancare delle funzioni o avere timers completamente incorretti. Si raccomanda vivamente di intallare l'ultimo aggiornamento."
+--L.warnSeveralReleases = "|cffff0000Your BigWigs è molte versioni più vecchhio!!! Raccomandiamo ASSOLUTAMENTE di aggiornarlo per prevenire errori di sincronizzazione con altri giocatori!|r"
 
---L.gitHubTitle = "BigWigs is on GitHub"
---L.gitHubDesc = "BigWigs is open source software hosted on GitHub. We are always looking for new people to help us out and everyone is welcome to inspect our code, make contributions and submit bug reports. BigWigs is as great as it is today largely in part to the great WoW community helping us out.\n\n|cFF33FF99Our API is now documented and freely readable on the GitHub wiki.|r"
+--L.gitHubTitle = "BigWigs è su GitHub"
+--L.gitHubDesc = "BigWigs è un software open source ospitato su GitHub. Siamo sempre in cerca di nuovi collaboratori che ci aiutino e tutti sono benvenuti ad ispezionare il nostro codice, dare un contributo e segnalare errori. BigWigs è oggi cosi grande grazie in gran parte all'aiuto della Comunità di WoW.\n\n|cFF33FF99Our API è ora documentata e liberamente leggibile sul GitHub wiki.|r"
 
---L.options = "Options"
---L.raidBosses = "Raid Bosses"
---L.dungeonBosses = "Dungeon Bosses"
+--L.options = "Opzioni"
+--L.raidBosses = "Bosses dell'Incursione"
+--L.dungeonBosses = "Bosses della Spedizione"
 
---L.infobox = "Information Box"
---L.infobox_desc = "Display a box with information related to the encounter."
+--L.infobox = "Finestra Informazioni"
+--L.infobox_desc = "Mostra una finestra con informazioni relative all'incontro."
 --L.INFOBOX = L.infobox
 --L.INFOBOX_desc = L.infobox_desc
 
---L.disabledAddOn = "You have the |cFF436EEE%s|r addon disabled, timers will not be shown."
+--L.disabledAddOn = "Hai l' |cFF436EEE%s|r addon disabilitato, il timer non sarà visibile."
 
 L.activeBossModules = "Moduli dei Combattimenti Attivi:"
 L.advanced = "Opzioni Avanzate"
